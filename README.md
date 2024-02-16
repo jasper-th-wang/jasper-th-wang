@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌲 I'm a software developer with a passion for crafting cool stuff and solving problems.<br><br>🎓 I study at the British Columbia Institute of Technology, diving deep into Computer Science.<br><br>👨‍💻 Once a curious kid peeking over my dad's shoulder at his web creations, I've come full circle - hacking together my own website with JavaScript during my psych studies and getting hooked on coding.<br><br>🌟 When not coding, I am playing some random singer-songwriter tunes with my guitar, or cooking up Taiwanese or Japanese dishes<br><br>👯 I’m looking to collaborate on QDS Hacks 2024</p>
+<p align="left">🌲 I'm a software developer with a passion for crafting cool stuff and solving problems.<br><br>🎓 I study at the British Columbia Institute of Technology, diving deep into Computer Science as a co-op student.<br><br>👨‍💻 Once a curious kid peeking over my dad's shoulder at his web creations, I've come full circle - hacking together my own website with JavaScript during my psych studies and getting hooked on coding.<br><br>🌟 When not coding, I am playing some random singer-songwriter tunes with my guitar, or cooking up Taiwanese or Japanese dishes<br><br>👯 I’m looking to collaborate on QDS Hacks 2024</p>
 
 ###
 
